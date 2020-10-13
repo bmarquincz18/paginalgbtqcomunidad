@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/estilos.css">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css"
+  />
+  
+    <title>LGBT</title>
+</head>
+<body>
+    <div class="container-fluid"></div>
+    
+    <h1 class="center"><a href="https://www.plannedparenthood.org/es/temas-de-salud/para-adolescentes/lgbtq#:~:text=La%20sigla%20LGBTQ%20significa%20lesbiana,y%20la%20identidad%20de%20g%C3%A9nero.">         
+      <img src="images/arco-iris.png" height="30px"></a>ZONA LGBT</h1>
+      <div class="row">
+        <div class="col-md-12 azul">
+      <nav class="navbar navbar-expand-lg navbar-light ">
+        <a class="navbar-brand" href="indexhtml.html"><H6></H6></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+          <ul class="navbar-nav">
+            <li class="nav-item active">
+              <a class="nav-link" href="indexhtml.html"><h6>ZONA LGBT <img src="images/arco-iris.png" height="15px"> <span class="sr-only">(current)</span></a>
+            </li>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+              <ul class="navbar-nav">
+                <li class="nav-item active">
+                  <a class="nav-link" href="index3.html"><h6>encuesta <img src="images/arco-iris.png" height="15px"> <span class="sr-only">(current)</span></a>
+                </li>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+              <ul class="navbar-nav">
+                <li class="nav-item active">
+                  <a class="nav-link" href="index2.html"><h6>ESPECIAL PERIODISCO <img src="images/arco-iris.png" height="15px"> <span class="sr-only">(current)</span></a>
+                </li>
+               
+          </ul>
+        </div>
+      </nav>
+    <div class="row">
+      <div class="col-md-3 rojo"><main>
+        <header>
+        
+          <figure>
+      
+            <details>
+              <summary><h2>Orientación Sexual</h2></summary>
+            <figcaption>
+              <p><div class="red">Hace referencia a la atracción sexual y afectiva que una persona sienta hacia otras de su mismo género (hombres gays y mujeres lesbianas), del género opuesto (heterosexuales) o de ambos (personas bisexuales), así como a la capacidad de realizar demostraciones de afecto y mantener relaciones sexuales con esas personas.</p>
+              </figcaption>
+            </details>
+            
+            </figure>
+          </main>
+  </div>
+  <div class="col-md-3 rojo"><main>
+    <header>
+    
+      <figure>
+  
+        <details>
+          <summary><h2>Identidad Sexual</h2>
+
+          </summary>
+        <figcaption>
+          <p><div class="green">Hace referencia a la manera como cada persona se identifica individualmente con lo masculino o con lo femenino, aun distanciandose del sexo que se le haya asignado al momento de nacer.</p>
+          </figcaption>
+        </details>
+        
+        </figure>
+      </main>
+</div>
+<div class="col-md-3 rojo"><main>
+  <header>
+  
+    <figure>
+
+      <details>
+        <summary><h2>Expresión de género</h3></summary>
+      <figcaption>
+        <p><div class="blue">Se refiere a la manifestación externa de distintas características culturalmente consideradas como masculinas o femeninas, lo cual puede incluir intervenciones corporales (incluyendo procedimientos quirúrgicos o procesos de hormonización), modo de hablar, vestir, modales e interacción con otras personas. </p>
+        </figcaption>
+      </details>
+      
+      </figure>
+    </main>
+  </div>
+  <div class="col-md-3 rojo"><main>
+    <header>
+    
+      <figure>
+  
+        <details>
+          <summary><h2>Explicación LGBT</h2>
+
+          </summary>
+        <figcaption>
+          <p><div class="purple">LGBTQ. La sigla LGBTQ significa lesbiana, gay, bisexual, transgénero, y queer. Además de estas, existen más nombres que definen la personalidad e identidad de muchas personas alrededor del mundo.</p>
+          </figcaption>
+        </details>
+        
+        </figure>
+      </main>
+</div>
+</div>
+
+
+<div class="row">
+  <div class="col-md-12 rojo">
+   
+      <div class="center">
+  <img src="images1/Banner.png"height="420px">
+ 
+
+  
+
+
+  
+    
+ 
+  </div>
+</div>
+</div>
+<div class="row">
+  <div class="col-md-12 amarillo">
+  <form action="../../form-result.php" method="post" target="_blank">
+<div class="center">
+    <p><div class="rosa">
+  
+
+  
+    </p>
+  
+  </div>
+      </div>
+      <div class="center">
+        <h2>REDES SOCIALES</h2>
+      </div>
+      <div class="center">
+        <img src="images/bandera.jpg" height="70px">
+        <img src="images/bandera.jpg" height="70px">
+        <img src="images/bandera.jpg" height="70px">
+        <img src="images/bandera.jpg" height="70px">
+        <img src="images/bandera.jpg" height="70px">
+          <a class="navbar-brand" href="https://www.facebook.com/andres.caicedosalazar/"><H6><img src="images/Facebook.png" height="50px"></H6></a>
+          <a class="navbar-brand" href="https://www.facebook.com/andres.caicedosalazar/"><H6><img src="images/Instagram.png" height="50px"></H6></a>
+          <a class="navbar-brand" href="https://www.facebook.com/andres.caicedosalazar/"><H6><img src="images/Twitter.png" height="50px"></H6></a>
+          <a class="navbar-brand" href="https://web.whatsapp.com/"><H6><img src="images/whatsapp.png" height="50px"></H6></a>
+        <img src="images/banderatrans.jpeg" height="70px">
+        <img src="images/banderatrans.jpeg" height="70px">
+        <img src="images/banderatrans.jpeg" height="70px">
+        <img src="images/banderatrans.jpeg" height="70px">
+       
+
+
+
+
+      </div>
+      <div class="row">
+        <div class="col-md-4 rojo">
+                <video width="380"  controls>
+                  
+                  <source src="video/introduccion.mp4"type="video/mp4">
+              
+                </video>
+                <a class="nav-link" href="index2.html"><h6>ESPECIAL PERIODISCO <img src="images/arco-iris.png" height="15px"> <span class="sr-only">(current)</span></a>
+                 
+                 
+                </div>
+                <div class="col-md-4 amarillo">
+                  <figure>
+                    <details>
+                  <source src="video/introduccion.mp4"type="video/mp4" svg class="bi bi-collection-play-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                      <summary><h2><div class="blanco">Introducción<svg class="bi bi-collection-play-fill" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                        <path fill-rule="evenodd" d="M1.5 14.5A1.5 1.5 0 0 1 0 13V6a1.5 1.5 0 0 1 1.5-1.5h13A1.5 1.5 0 0 1 16 6v7a1.5 1.5 0 0 1-1.5 1.5h-13zm5.265-7.924A.5.5 0 0 0 6 7v5a.5.5 0 0 0 .765.424l4-2.5a.5.5 0 0 0 0-.848l-4-2.5zM2 3a.5.5 0 0 0 .5.5h11a.5.5 0 0 0 0-1h-11A.5.5 0 0 0 2 3zm2-2a.5.5 0 0 0 .5.5h7a.5.5 0 0 0 0-1h-7A.5.5 0 0 0 4 1z"/>
+                      </svg></h2></summary>
+                    <figcaption>
+                      <p><div class="purple">Este es un breve video introductorio, en el cual te explicamos lo que puedes encontrar en esta pàgina, su información y su objetivo. </p>
+                      </figcaption>
+                    </details>
+                    
+                    </figure>
+                  </main>
+                  
+               
+                </div>
+            
+              <div class="col-md-4 rojo">
+                    <figure>
+                      <div class="center">
+                      <details>
+                        <summary><h2>Entrevista<svg class="bi bi-headphones" width="1em" height="1em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                          <path fill-rule="evenodd" d="M8 3a5 5 0 0 0-5 5v4.5H2V8a6 6 0 1 1 12 0v4.5h-1V8a5 5 0 0 0-5-5z"/>
+                          <path d="M11 10a1 1 0 0 1 1-1h2v4a1 1 0 0 1-1 1h-1a1 1 0 0 1-1-1v-3zm-6 0a1 1 0 0 0-1-1H2v4a1 1 0 0 0 1 1h1a1 1 0 0 0 1-1v-3z"/>
+                        </svg></h2>
+              
+                        </summary>
+                      <figcaption>
+                        <p><div class="green">Esta es una breve explicación de la situación que vive la comunidad LGBTIQ+ en Colombia, además de una pequeña entrevista a una mujer bisexual, estudiante de un colegio distrital de Bogotá, ubicado en la localidad de ciudad Bolivar. Ella nos dará su breve punto de vista respecto a la discriminación, sumado a esto, responderá una pequeña serie de preguntas.</p>
+                        </figcaption>
+                      </details>
+                      
+                      </figure>
+                    </main>
+                  
+                 
+                      <figure>
+                       <div class="center">
+                          <audio width="450"  controls>
+                          <source src="audio/homofobia.mpeg"type="audio/mp3">
+                          <source src="audio/homofobia.mpeg"type="audio/ogg">
+                             
+                          
+                        </audio>
+                     
+     </div>
+                
+   
+                   
+    <script src="js/bootstrap.min.js.map"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script></script>
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+</html>
